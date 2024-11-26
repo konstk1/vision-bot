@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+--pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+torch
+--pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+torchvision
+ultralytics==8.3.38
+
